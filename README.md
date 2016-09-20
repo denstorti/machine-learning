@@ -1,5 +1,5 @@
 # machine-learning
-Exercises on machine learning
+Exercises on machine learning, mainly in Python
 
 * Anaconda Python (environment): https://docs.continuum.io/anaconda/install#anaconda-for-windows-install
 * Algoritmos ML em Python: http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/
